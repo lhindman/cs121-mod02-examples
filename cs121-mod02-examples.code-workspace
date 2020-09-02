@@ -3,6 +3,21 @@
 		{
 			"path": "MyApp"
 		},
+		{
+			"path": "Strings"
+		},
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "Expressions"
+		},
+		{
+			"path": "Assignment Operators"
+		},
+		{
+			"path": "User Input"
+		}
 	],
 	"settings": {
 		"files.exclude": {
