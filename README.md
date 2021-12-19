@@ -9,12 +9,22 @@ To get started on this activity, please clone this repository into your developm
 5. When prompted, Open the repository then Open the workspace
 
 ## Expressions Experimentation
-1. Open ConversionFun.java, read the code and run it to ensure it runs properly.  Then work through each of the experiments below and record your observations.
+1. Open ConversionFun.java, read the code and run it to ensure it functions properly.  Then work through each of the experiments below and record your observations.
     - Add code to output Volume 3 where volume3 is calculated as shown below. What is the result and why?  
             volume3 = PI * radiusCubed * (4 / 3);
  
     - Add code to output Volume 4 where volume4 is calculated as shown below. What is the result and why?  
             volume4 = 4 / (3 * PI) * radiusCubed;  
-1. Open CookieFun.java, read the code and run it to ensure it runs properly.  Then work through each of the experiments below and record your observations.
+1. Open CookieFun.java, read the code and run it to ensure it functions properly.  Then work through each of the experiments below and record your observations.
     - Update the cookiesPerFriend expression as shown below. What is the result and why?  
             cookiesPerFriend = (double) (numCookies / numFriends);  
+
+## Variable Experimentation
+1. Open Geometry.java, read the code and run it to ensure it functions properly.  Then work through each of the experiments below and record your observations.
+    - Change the declaration for sides from an int to a double as shown below. What is the result and why?  
+            double sides = 7; 
+    - Modify the declaration for sides from to use the final operator as shown below. What is the result and why?  
+            final double sides = 7;
+1. Open PianoKeys.java, read the code and run it to ensure it functions properly.  Then work through each of the experiments below and record your observations.
+    - Modify the declaration for keys from to use the final operator as shown below. What is the result and why?  
+            final int keys = 88;  
