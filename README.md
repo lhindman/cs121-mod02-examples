@@ -1,4 +1,5 @@
 # CS121 - Module 2 - Data and Expressions Guided Experimentation
+The purpose of this guided experimentation is to provide students with an opportunity to experiment with the code examples presented in the lecture. It is important to keep detailed observation notes as you work through the experiments below. These observations will be useful to you as you complete the labs and you will be allowed to reference them on open book / open note quizzes. You will not be required to turn in your observations.
 ## Getting Started
 To get started on this activity, please clone this repository into your development environment
 1. Copy the URL for this repo by clicking the green "Code" button above, select HTTPS then click the copy icon.
@@ -6,3 +7,14 @@ To get started on this activity, please clone this repository into your developm
 3. Pasted the repo URL into the "Provide repository URL" field and press Enter
 4. Browse to the location in your development environment where you want to store the repostory and click Select Repository Location.
 5. When prompted, Open the repository then Open the workspace
+
+## Expressions Experimentation
+- Open ConversionFun.java, read the code and run it to ensure it runs properly.
+ 1. Add code to output Volume 3 where volume3 is calculated as shown below. What is the result?
+```
+volume3 = PI * radiusCubed * (4 / 3);
+```
+ 2. Add code to output Volume 4 where volume4 is calculated as shown below. What is the result?
+```
+volume4 = 4 / (3 * PI) * radiusCubed;
+```
