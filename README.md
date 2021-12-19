@@ -13,7 +13,7 @@ To get started on this activity, please clone this repository into your developm
     - Add code to output Volume 3 where volume3 is calculated as shown below. What is the result and why?  
             volume3 = PI * radiusCubed * (4 / 3);
  
-    - Add code to output Volume 4 where volume4 is calculated as shown below. What is the result and why?
+    - Add code to output Volume 4 where volume4 is calculated as shown below. What is the result and why?  
             volume4 = 4 / (3 * PI) * radiusCubed;  
 1. Open CookieFun.java, read the code and run it to ensure it runs properly.  Then work through each of the experiments below and record your observations.
     - Update the cookiesPerFriend expression as shown below. What is the result and why?  
