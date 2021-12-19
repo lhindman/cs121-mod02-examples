@@ -35,11 +35,11 @@ To get started on this activity, please clone this repository into your developm
 ## String Experimentation
 1. Open Lincoln.java, read the code and run it to ensure it functions properly.  Then work through each of the experiments below and record your observations.
     - Create a variable to hold a String value as shown below. What is the result and why?  
-            ```
+        ```
 System.out.println("A quote by Abraham Lincoln:");  
 String quote;  
 System.out.println("Whatever you are, be a good one.");  
-            ```
+        ```
 
             
     - Modify the declaration for sides from to use the final operator as shown below. What is the result and why?  
