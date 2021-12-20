@@ -1,7 +1,10 @@
 # CS121 - Module 2 - Data and Expressions Guided Experimentation
 The purpose of this guided experimentation is to provide students with an opportunity to experiment with the code examples presented in the lecture. It is important to keep detailed observation notes as you work through the experiments below. These observations will be useful to you as you complete the labs and you will be allowed to reference them on open book / open note quizzes. You will not be required to turn in your observations.
 ## Getting Started
-To get started on this activity, please clone this repository into your development environment
+To get started on this activity, please clone this repository into your development environment  
+[Clone Code Examples Walkthrough Video](https://youtu.be/lxD0st_jpk4)
+
+Steps to Clone Examples:
 1. Copy the URL for this repo by clicking the green "Code" button above, select HTTPS then click the copy icon.
 2. Open VSCode, click the Source Control icon then click Clone Repository.
 3. Pasted the repo URL into the "Provide repository URL" field and press Enter
