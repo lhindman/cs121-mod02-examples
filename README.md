@@ -5,7 +5,7 @@ The purpose of this guided experimentation is to provide students with an opport
 ***You are not required to turn in your observations.***
 ## Getting Started
 To get started on this activity, please clone this repository into your development environment  
-[Clone Code Examples Walkthrough Video](https://youtu.be/lxD0st_jpk4)
+[Clone Code Examples Walkthrough Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fb47aa0-7147-4c1f-bf60-ae31017cd6bc&start=0)
 
 Steps to Clone Examples:
 1. Copy the URL for this repo by clicking the green "Code" button above, select HTTPS then click the copy icon.
