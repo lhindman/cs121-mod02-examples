@@ -104,8 +104,6 @@ Steps to Clone Examples:
     cookiesPerFriend = (double) (numCookies / numFriends);  
     ```
 
-## User Input Experimentation
-
 
 
 
